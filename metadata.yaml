@@ -1,0 +1,40 @@
+_repo: Anna-of-the-Five-Towns_35505
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: 'In Anna of the Five Towns (1902) Arnold Bennett depicts the severe economic
+  and moral pressures of life in the Potteries in the late nineteenth century, as
+  they affect the emotional fortunes of his heroine. When Anna Tellwright comes of
+  age, she learns from her miserly father that she is rich, and discovers for herself
+  that she is loved by two men: popular, charismatic, and successful Henry Mynors,
+  and awkward Willie Price. The novel presents her resistance to her father against
+  the background of pottery manufacture and the repressive regime of Methodism.'
+gutenberg_issued: '2011-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35505'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'Staffordshire (England) -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Pottery industry -- Fiction'
+- !lcsh 'Stoke-on-Trent (England) -- Fiction'
+- !lcc 'PR'
+title: Anna of the Five Towns
+url: http://www.gutenberg.org/ebooks/35505
