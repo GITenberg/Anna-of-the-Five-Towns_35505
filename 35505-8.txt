@@ -11,6 +11,7 @@ Title: Anna of the Five Towns
 Author: Arnold Bennett
 
 Release Date: March 6, 2011 [EBook #35505]
+Last updated: November 25, 2014
 
 Language: English
 
@@ -183,7 +184,7 @@ he idly turned the leaves of the book which she handed to him.  'Now,
 do you deserve it?  Tell me honestly.'
 
 She scrutinised those sparkling and vehement black eyes with the
-fearless calm of infancy.  'Yes, I do,' $he answered in her high, thin
+fearless calm of infancy.  'Yes, I do,' she answered in her high, thin
 voice, having at length decided within herself that Mr. Mynors was
 joking.
 
@@ -349,7 +350,7 @@ skirts, when Willie Price reappeared front the direction of the chapel.
 
 'Ye-es,' he stammered, clumsily raising his hat to Anna.  She thought
 of him exactly as Agnes had done.  He hesitated for a fraction of time,
-and then went up the yard-towards the lecture-hall.
+and then went up the yard towards the lecture-hall.
 
 'Agnes has been showing me her prize,' said Mynors, as the three stood
 together outside the gate.  'I ask her if she thinks she really
@@ -363,7 +364,7 @@ Anna gave the little girl an affectionate smile of comprehension.
 children,"' Agnes read out in a monotone: then she clutched Anna's
 elbow and aimed a whisper at her ear.
 
-'Very well, dear,' Anna answered loud, 'but we must be back by a
+'Very well, dear,' Anna answered aloud, 'but we must be back by a
 quarter-past four.'  And turning to Mynors: 'Agnes wants to go up to
 the Park to hear the band play.'
 
@@ -455,7 +456,9 @@ railway cutting, and they could hear the music of 'The Emperor's Hymn.'
 The crude, brazen sounds were tempered in their passage through the
 warm, still air, and fell gently on the ear in soft waves, quickening
 every heart to unaccustomed emotions.  Children leaped forward, and old
-people unconsciously assumed a lightsome vigour.  The Park rose in
+people unconsciously assumed a lightsome vigour.
+
+The Park rose in
 terraces from the railway station to a street of small villas almost on
 the ridge of the hill.  From its gilded gates to its smallest
 geranium-slips it was brand-new, and most of it was red.  The keeper's
@@ -465,7 +468,7 @@ nullified the pallid greens of the turf and the frail trees.  The
 immense crowd, in order to circulate, moved along in tight processions,
 inspecting one after another the various features of which they had
 read full descriptions in the 'Staffordshire Signal'--waterfall,
-grotto, lake, swans, boat, seats, faience, statues--and scanning with
+grotto, lake, swans, boat, seats, faïence, statues--and scanning with
 interest the names of the donors so clearly inscribed on such objects
 of art and craft as from divers motives had been presented to the town
 by its citizens.  Mynors, as he manoeuvred a way for the two girls
@@ -819,7 +822,7 @@ Manor Terrace gave food for reflection, silent but profound.
 Tellwright had long ago retired from business, and three years after
 the housekeeper died he retired, practically, from religious work, to
 the grave detriment of the Hanbridge circuit.  In reply to sorrowful
-questioners, he said merely that he was petting old and needed rest,
+questioners, he said merely that he was getting old and needed rest,
 and that there ought to be plenty of younger men to fill his shoes.  He
 gave up everything except his pew in the chapel.  The circuit was
 astounded by this sudden defection of a class-leader, a local preacher,
@@ -1706,7 +1709,7 @@ man, his excellent and strong nature, his kindliness, his sincerity.
 Yes, to Anna, Mynors was perfect that night; the reality of him
 exceeded her dreamy meditations.  Fearful on the brink of an ecstatic
 bliss, she could scarcely believe that from the enticements of a
-thousand woman this paragon had been preserved for her.  Like most of
+thousand women this paragon had been preserved for her.  Like most of
 us, she lacked the high courage to grasp happiness boldly and without
 apprehension; she had not learnt that nothing is too good to be true.
 
@@ -2082,7 +2085,7 @@ revivalist, a manikin in comparison with his colleague; on the broad
 balustrade of the pulpit lay the cornet.  The fiery and inquisitive
 eyes of the revivalist probed into the furthest corners of the chapel;
 apparently no detail of any single face or of the florid decoration
-escaped him, and as Anna crept into a small empty pew next to the cast
+escaped him, and as Anna crept into a small empty pew next to the east
 wall she felt that she too had been separately observed.  Mr. Banks
 gave out the last verse of the hymn, and simultaneously with the
 leading chord from the organ the revivalist seized his cornet and
@@ -2314,7 +2317,7 @@ burning ironstone glowed with all the strange colours of decadence.
 The entire landscape was illuminated and transformed by these unique
 pyrotechnics of labour atoning for its grime, and dull, weird sounds,
 as of the breathings and sighings of gigantic nocturnal creatures,
-filled the enchanted air, It was a romantic scene, a romantic summer
+filled the enchanted air.  It was a romantic scene, a romantic summer
 night, balmy, delicate, and wrapped in meditation.  But Anna saw
 nothing there save the repulsive evidences of manufacture, had never
 seen anything else.
@@ -2522,7 +2525,7 @@ away upstairs; the kitchen was barred to her since her father would
 enter by the kitchen door.
 
 She had forgotten to buy bacon, and breakfast would be late: it was a
-calamity unique in, her experience!  She stood at the door of her
+calamity unique in her experience!  She stood at the door of her
 bedroom, and waited, vehemently, for Agnes's return.  At last the child
 raced breathlessly in; Anna flew to meet her.  With incredible speed
 the bacon was whipped out of its wrapper, and Anna picked up the knife.
@@ -2831,7 +2834,7 @@ thirty.'
 
 'And suppose he says he can't?'
 
-'Tell him he must.  I 've figured it out and changed my mind about that
+'Tell him he must.  I've figured it out and changed my mind about that
 works.  Owd Titus isna' done for yet, though he's getting on that road.
 Us can screw another fifty out o' him, that 'll only leave six months
 rent owing; then us can turn him out.  He'll go bankrupt; us can claim
@@ -2898,7 +2901,7 @@ went on: 'Can I see your father, Miss Tellwright?'
 property, but I thought Mr. Tellwright always saw after it for you.  It
 was he that wrote that letter this morning, wasn't it?'
 
-'Yes,' Anna replied.  'She did not explain the situation.
+'Yes,' Anna replied.  She did not explain the situation.
 
 'You insist on another twenty pounds on Monday?'
 
@@ -3016,7 +3019,7 @@ timidly to her father, pushing the note towards him across the table.
 
 'I don't want to go----'
 
-'Oh!  Sis, do go,' Agnes pleaded.
+'Oh!  Sis, _do_ go,' Agnes pleaded.
 
 'Perhaps I'd better,' she agreed, but with the misgivings of
 diffidence.  'I haven't a rag to wear.  I really must have a new dress,
@@ -3119,7 +3122,7 @@ chocolates?' she added.
 adored her sister, and perhaps God; and this was the first time she had
 tasted chocolate.
 
-'I couldn't live without them,' said Beatrice.  'Your hair is lovely.
+'I couldn't _live_ without them,' said Beatrice.  'Your hair is lovely.
 I never saw such a brown.  What wash do you use?'
 
 'Wash?' Anna repeated.
@@ -3172,7 +3175,7 @@ splendid.'
 'Oh, yes, they're all mine; they're only still-life studies,' Beatrice
 said contemptuously of them, but she was nevertheless flattered.
 
-'I see now that that is Mr. Sutton,' Anna said, pointing to the easel
+'I see now that that _is_ Mr. Sutton,' Anna said, pointing to the easel
 picture.
 
 'Yes, it's pa right enough.  But I'm sure I'm boring you.  Let's go
@@ -3197,7 +3200,7 @@ of the window, and one of them was occupied by Miss Dickinson, whom
 Anna slightly knew.  The other, being empty, was assigned to the
 late-comer.
 
-'Now you want something to do, I suppose,' said Beatrice.'
+'Now you want something to do, I suppose,' said Beatrice.
 
 'Please.'
 
@@ -4143,10 +4146,10 @@ men, naked to the waist, could dimly be seen struggling with the weight
 of saggars[2] full of ware.  It seemed like some release of martyrs,
 this unpacking of the immense oven, which, after being flooded with a
 sea of flame for fifty-four hours, had cooled for two days, and was yet
-hotter than the Equator.  The inertness and pallor of the saggers
+hotter than the Equator.  The inertness and pallor of the saggars
 seemed to be the physical result of their fiery trial, and one wondered
 that they should have survived the trial.  Mynors went into the place
-adjoining the oven and brought back a plate out of an open sagger; it
+adjoining the oven and brought back a plate out of an open saggar; it
 was still quite warm.  It had the _matt_ surface of a biscuit, and
 adhered slightly to the fingers: it was now a 'crook'; it had exchanged
 malleability for brittleness, and nothing mortal could undo what the
@@ -4853,7 +4856,7 @@ Agnes ran up to say good-bye.
 Mrs. Sutton kissed the child.  'Agnes will be the little housekeeper,
 eh?'  The little housekeeper was almost as pleased at the prospect of
 housekeeping as if she too had been going to the Isle of Man.  'You'll
-both be at the school-treat next Tuesday,' suppose,' Mrs. Sutton said,
+both be at the school-treat next Tuesday, I suppose,' Mrs. Sutton said,
 holding Agnes by the hand.  Agnes glanced at her sister in inquiry.
 
 'I don't know,' Anna replied.  'We shall see.'
@@ -4895,7 +4898,7 @@ were less than a score umbrellas.  The excursion was theoretically in
 charge of Titus Price, the Senior Superintendent, but this dignitary
 had failed to arrive on Duck Bank, and Mynors had taken his place.  In
 the train Anna heard that some one had seen Mr. Price, wearing a large
-grey wide-awake, leap into the guard's van at the very instant of
+grey wideawake, leap into the guard's van at the very instant of
 departure.  He had not been at school on the previous Sunday, and Anna
 was somewhat perturbed at the prospect of meeting the man who had
 defined her letter to him as unique in the whole of his business
@@ -5252,7 +5255,7 @@ fads and fal-lals.  How long art going to be away?'
 
 'What for?  Art naked?'
 
-'I must have some money.'  Her voice shook, She was getting near tears.
+'I must have some money.'  Her voice shook.  She was getting near tears.
 
 'Well, thou's gotten thy own money, hast na'?'
 
@@ -5439,7 +5442,7 @@ Anna glanced curiously at Beatrice's yellow face.
 again, wearily.
 
 So they went away, and discovered two empty deck-chairs on the
-fore-deck.  Anna was innocently vain of her immunity from malaise.
+fore-deck.  Anna was innocently vain of her immunity from _malaise_.
 Mynors appeared to appoint himself little errands about the deck,
 returning frequently to his chair.  'Look over there.  Can you see
 anything?'
@@ -5572,7 +5575,7 @@ direction of the sea.  Then he said:
 The little bay lay like an oblong swimming-bath five hundred feet below
 them.  The surface of the water was like glass; the strand, with its
 phalanx of boats drawn up in Sabbath tidiness, glittered like marble in
-the living light, and over this marble black dots moved slowly two and
+the living light, and over this marble black dots moved slowly to and
 fro; behind the boats were the houses--dolls' houses--each with a
 curling wisp of smoke; further away the railway and the high road ran
 out in a black and white line to Port St. Mary; the sea, a pale grey,
@@ -6079,7 +6082,7 @@ your fond father's heart by a refusal?'
 
 Anna interjected: 'I think he did, Bee.'
 
-'You, know you're very self-willed, not to say selfish,' Mynors said.
+'You know you're very self-willed, not to say selfish,' Mynors said.
 
 'No, I'm not,' Beatrice protested seriously.  'Am I, Anna?'
 
@@ -6230,7 +6233,7 @@ The quiet admiration of these two men was very pleasant to her.  She
 felt that she had established herself for ever in their esteem.  After
 breakfast, in obedience to them, she slept for several hours on Mrs.
 Sutton's bed.  In the afternoon Beatrice was worse.  The doctor called,
-and found her temperature at 105.9.
+and found her temperature at 105°.
 
 'This can't last,' he remarked briefly.
 
@@ -6515,7 +6518,7 @@ knew too.'
 
 'I hope you didn't talk about it,' said the elder sister.
 
-'Oh, no!  But they did; they were always talking about it.'
+'Oh, _no_!  But they did; they were always talking about it.'
 
 'You never told me that.'
 
@@ -6528,9 +6531,9 @@ knew too.'
 'Not for a very long time.'
 
 'When you are--shall I keep house alone?  I can, you know----  I shall
-never dare to call him Henry.  But he's awfully nice; isn't he, Anna?
+never _dare_ to call him Henry.  But he's awfully nice; isn't he, Anna?
 Yes, when you are married, I shall keep house here, but I shall come to
-see you every day.  Father will have to let me do that.  Does father
+see you every day.  Father will _have_ to let me do that.  Does father
 know you're engaged?'
 
 'Not yet.  And you mustn't say anything.  Henry is coming for supper.
@@ -6878,10 +6881,10 @@ responsible for this.'
 
 'We have been so hard on him for his rent lately, you know.'
 
-My dearest girl!  What next?'  He took her hand in his.  'I assure you
+'My dearest girl!  What next?'  He took her hand in his.  'I assure you
 the idea is absurd.  You've only got it because you're so sensitive and
-high-strung.  I undertake to say Price was stuck fast everywhere--every
-where--hadn't a chance.'
+high-strung.  I undertake to say Price was stuck fast
+everywhere--everywhere--hadn't a chance.'
 
 'Me high-strung!' she exclaimed.  He kissed her lovingly.  But, beneath
 the feeling of reassurance, which by superior force he had imposed on
@@ -7433,7 +7436,7 @@ thinking--what an angel you are.'
 Only the meek, the timid, the silent, can, in moments of deep feeling,
 use this language of hyperbole without seeming ridiculous.
 
-He was her great child, and she knew that ha worshipped her.  Oh,
+He was her great child, and she knew that he worshipped her.  Oh,
 ineffable power, that out of misfortune canst create divine happiness!
 
 Later, he remarked in his ordinary tone: 'I was expecting your father
@@ -7796,7 +7799,7 @@ error by some voluntary assurance that Willie Price should be watched
 over with a benevolent eye and protected with a strong arm.  But how
 was he to know that in misprizing Willie Price before her, he was
 misprizing a child to its mother?  He had done something for Willie
-Price, and considered mat he had done enough.  His thoughts, moreover,
+Price, and considered that he had done enough.  His thoughts, moreover,
 were on other matters.
 
 'Do you remember that day we went up to the park?' he murmured fondly;
@@ -8076,7 +8079,7 @@ married soon, since the old gentleman seems rather to expect it?  He's
 been rather awkward lately, hasn't he?'
 
 This was the only reference made by Mynors to her father's temper.  She
-nodded.  'How soon?  she asked.
+nodded.  'How soon?' she asked.
 
 'Well, I was just thinking.  Suppose, for the sake of argument, this
 house turns out all right.  I couldn't get it thoroughly done up much
